@@ -1,0 +1,9 @@
+{
+    "name":"mlcpp", 
+    "dependencies" : [
+        "gflags",
+        "glog",
+        "boost-asio"
+    ],
+    "version": "0.0.1"
+}
