@@ -138,10 +138,10 @@ Creates a data handler instance by loading images and labels from the specified 
 - LabelValueType: Usually `uint8_t` for MNIST labels
 
 ### Common Build Issues
-    - Ensure VCPKG_ROOT environment variable is set
-   - Verify vcpkg is properly installed
-   - Check CMAKE_TOOLCHAIN_FILE path
-   - Verify vcpkg manifest mode is enabled
+- Ensure VCPKG_ROOT environment variable is set
+- Verify vcpkg is properly installed
+- Check CMAKE_TOOLCHAIN_FILE path
+- Verify vcpkg manifest mode is enabled
 
 ## Acknowledgments
 - MNIST dataset creators
